@@ -1,0 +1,9 @@
+C:\Users\Siamzu\Desktop\Envio Whatsaap\EnvioWhatsaap\bin\Debug\EnvioWhatsaap.exe.config
+C:\Users\Siamzu\Desktop\Envio Whatsaap\EnvioWhatsaap\obj\Debug\EnvioWhatsaap.csprojResolveAssemblyReference.cache
+C:\Users\Siamzu\Desktop\Envio Whatsaap\EnvioWhatsaap\obj\Debug\EnvioWhatsaap.Form1.resources
+C:\Users\Siamzu\Desktop\Envio Whatsaap\EnvioWhatsaap\obj\Debug\EnvioWhatsaap.Properties.Resources.resources
+C:\Users\Siamzu\Desktop\Envio Whatsaap\EnvioWhatsaap\obj\Debug\EnvioWhatsaap.csproj.GenerateResource.Cache
+C:\Users\Siamzu\Desktop\Envio Whatsaap\EnvioWhatsaap\bin\Debug\EnvioWhatsaap.exe
+C:\Users\Siamzu\Desktop\Envio Whatsaap\EnvioWhatsaap\bin\Debug\EnvioWhatsaap.pdb
+C:\Users\Siamzu\Desktop\Envio Whatsaap\EnvioWhatsaap\obj\Debug\EnvioWhatsaap.exe
+C:\Users\Siamzu\Desktop\Envio Whatsaap\EnvioWhatsaap\obj\Debug\EnvioWhatsaap.pdb
